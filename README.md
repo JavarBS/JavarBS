@@ -41,8 +41,8 @@ I'm a Data Analyst with 4+ years of experience analyzing operational and financi
 Seeking Data Analyst opportunities in fintech and financial services where I can leverage my analytical skills, technical expertise, and passion for financial data to drive business impact.
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: [linkedin.com/in/javarbscott](https://linkedin.com/in/javarbscott)
-- 📧 Email: [javarbs@gmail.com]
+- 💼 LinkedIn: www.linkedin.com/in/javarscott
+- 📧 Email: javarbs@gmail.com
 - 📍 Location: Los Angeles, CA
 
 ---
