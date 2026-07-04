@@ -3,11 +3,9 @@
 ## 🚀 About Me
 Senior IT Deployment Technician, transitioning into data analytics, SQL/Python/Tableau explicitly labeled as personal-project skills.
 
-- 🔭 **Currently:** Analyzing data across 230+ locations, managing $2M+ budgets
-- 🌱 **Learning:** Machine Learning, Advanced SQL, Python for Data Science
+- 🌱 **Learning:** Machine Learning, Python for Data Science
 - 💼 **Experience:** IT Deployment, Data Analysis, Financial Analytics, HRIS
 - ☁️ **Certified:** AWS Solutions Architect - Associate
-- 📊 **Passionate about:** Fintech, Financial Markets, Data-Driven Decision Making
 
 ## 💻 Technical Skills
 
@@ -43,7 +41,7 @@ Senior IT Deployment Technician, transitioning into data analytics, SQL/Python/T
 - Machine learning applications in finance
 
 ## 🎯 Career Goals
-Seeking Data Analyst opportunities in fintech and financial services where I can leverage my analytical skills, technical expertise, and passion for financial data to drive business impact.
+Seeking Data Analyst opportunities where I can leverage my analytical skills, technical expertise, and passion for data to drive business impact.
 
 ## 📫 Connect With Me
 - 💼 LinkedIn: www.linkedin.com/in/javarscott
@@ -52,4 +50,4 @@ Seeking Data Analyst opportunities in fintech and financial services where I can
 
 ---
 
-⚡ *Open to Data Analyst opportunities in fintech, financial services, and tech!*
+⚡ *Open to all Data Analyst opportunities!*
