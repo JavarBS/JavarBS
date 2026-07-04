@@ -14,10 +14,10 @@ Senior IT Deployment Technician, transitioning into data analytics, SQL/Python/T
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-##Professional Experience:
+## Professional Experience:
 Excel (Advanced, Power Query), Power Automate, SharePoint, Asana, CAPEX/budget tracking ($500K+), MicroStrategy & UltiPro/UKG BI (HRIS role)
 
-##Personal Projects:
+## Personal Projects:
 Python (Pandas, NumPy, Matplotlib), SQL (PostgreSQL, Complex Queries), Tableau, Looker
 
 **Programming & Analytics**
