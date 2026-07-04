@@ -1,7 +1,7 @@
 # Hi, I'm Javar Scott! 👋
 
 ## 🚀 About Me
-I'm a Data Analyst with 4+ years of experience analyzing operational and financial data. Currently transitioning from IT operations to focus full-time on data analytics and financial technology.
+Senior IT Deployment Technician, transitioning into data analytics, SQL/Python/Tableau explicitly labeled as personal-project skills.
 
 - 🔭 **Currently:** Analyzing data across 230+ locations, managing $2M+ budgets
 - 🌱 **Learning:** Machine Learning, Advanced SQL, Python for Data Science
