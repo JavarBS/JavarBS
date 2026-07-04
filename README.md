@@ -3,9 +3,10 @@
 ## 🚀 About Me
 Senior IT Deployment Technician, transitioning into data analytics, SQL/Python/Tableau explicitly labeled as personal-project skills.
 
-- 🌱 **Learning:** Machine Learning, Python for Data Science
-- 💼 **Experience:** IT Deployment, Data Analysis, Financial Analytics, HRIS
-- ☁️ **Certified:** AWS Solutions Architect - Associate
+🌱 **Learning:** Machine Learning, Python for Data Science
+💼 **Professional Experience:** IT Deployment, HRIS/BI Reporting
+🧪 **Personal Projects:** Data Analysis, Financial Analytics- ☁️
+ **Certified:** AWS Solutions Architect - Associate
 
 ## 💻 Technical Skills 
 
@@ -19,11 +20,6 @@ Excel (Advanced, Power Query), Power Automate, SharePoint, Asana, CAPEX/budget t
 
 ## Personal Projects:
 Python (Pandas, NumPy, Matplotlib), SQL (PostgreSQL, Complex Queries), Tableau, Looker
-
-**Programming & Analytics**
-- Python (Pandas, NumPy, Matplotlib)
-- SQL (PostgreSQL, Complex Queries)
-- Advanced Excel (Pivot Tables, VLOOKUP, Macros)
 
 **Data Visualization & BI**
 - Tableau
@@ -47,7 +43,7 @@ Python (Pandas, NumPy, Matplotlib), SQL (PostgreSQL, Complex Queries), Tableau, 
 - Machine learning applications in finance
 
 ## 🎯 Career Goals
-Seeking Data Analyst opportunities where I can leverage my analytical skills, technical expertise, and passion for data to drive business impact.
+Transitioning from IT Deployment into Data Analyst, Business Analyst, or Project Management roles where I can grow my SQL/Python skills into professional experience while applying my operational and technical background.
 
 ## 📫 Connect With Me
 - 💼 LinkedIn: www.linkedin.com/in/javarscott
@@ -56,4 +52,4 @@ Seeking Data Analyst opportunities where I can leverage my analytical skills, te
 
 ---
 
-⚡ *Open to all Data Analyst opportunities!*
+⚡ Open to Data Analyst, Business Analyst, and Project Management roles!
